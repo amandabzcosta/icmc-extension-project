@@ -1,4 +1,4 @@
-# pln-core
+# icmc-extension-project
 
 live streamlit: [https://pln-core.streamlit.app/](https://pln-core.streamlit.app/)
 
